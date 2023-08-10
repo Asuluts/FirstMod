@@ -1,4 +1,4 @@
-package net.jakey.firstmod.item;
+package net.jakey.firstmodj1.item;
 
 import net.jakey.firstmodj1.TutorialMod;
 import net.minecraft.world.item.Item;
